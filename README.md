@@ -1,6 +1,6 @@
 # Hi, I'm Giang (Michael) 👋
 
-🎓Sophomore majoring in Computer Science at the University of Houston <br/><br>🖥️AI enthusiasts - greatly interested in everything AI-related and everything that is going on in the Tech industry<br/><br>🧑‍💻Dream Career: AI/ML Engineer, Data Scientist<br/><br>🏢Wide Variety of Experience: from **tech consulting** for a start-up company to individual research and personal projects<br/>
+🎓Sophomore majoring in Computer Science at the University of Houston <br/><br>🖥️AI enthusiasts: greatly interested in everything AI-related and everything that is going on in the Tech industry<br/><br>🧑‍💻Dream Career: AI/ML Engineer, Data Scientist<br/><br>🏢Wide Variety of Experience: from **tech consulting** for a start-up company to individual research and personal projects<br/>
 
 ![Giang (Michael) Dao's Github stats](https://github-readme-stats.vercel.app/api?username=daobinhgiang&theme=algolia)
 
