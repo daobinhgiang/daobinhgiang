@@ -1,6 +1,6 @@
 # Hi, I'm Giang (Michael) 👋
 
-🎓Sophomore majoring in Computer Science at the University of Houston <br/><br>🖥️AI enthusiasts: greatly interested in everything AI-related and everything that is going on in the Tech industry<br/><br>🧑‍💻Dream Career: AI/ML Engineer, Data Scientist<br/><br>🏢Wide Variety of Experience: from **tech consulting** for a start-up company to **individual research** and **personal projects**<br/>
+🎓**Education:** Sophomore majoring in Computer Science at the University of Houston <br/><br>🖥️**AI enthusiasts:** greatly interested in everything AI-related and everything that is going on in the Tech industry<br/><br>🧑‍💻**Dream Career:** AI/ML Engineer, Data Scientist<br/><br>🏢**Wide Variety of Experience:** from tech consulting for a start-up company to individual research and personal projects<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michael-gdao/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giangdao.gmd@gmail.com) 
