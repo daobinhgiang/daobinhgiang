@@ -1,6 +1,6 @@
 # Hi, I'm Giang (Michael) 👋
 
-🎓**Education:** Junior majoring in Computer Science at the University of Houston <br/><br>🖥️**AI enthusiasts:** greatly interested in everything AI-related and the Tech industry<br/><br>🧑‍💻**Career Goal:** AI/ML Engineer, SWE, Tech startup founder<br/><br>🏢**Wide Variety of Experience:** from tech consulting for a start-up company to individual research and personal projects<br/>
+🎓**Education:** Junior majoring in Computer Science at the University of Houston <br/><br>🖥️**AI enthusiasts:** greatly interested in everything AI-related and the Tech industry<br/><br>🧑‍💻**Career Goal:** AI/ML Engineer, SWE, Tech startup founder<br/><br>🏢**Wide Variety of Experience:** from tech consulting/AI Adoption for start-ups to individual research and personal projects<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michael-gdao/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giangdao.gmd@gmail.com) 
